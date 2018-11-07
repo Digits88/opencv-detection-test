@@ -14,3 +14,7 @@ This will activate the virtual environment and you'll see a `(venv)` in the shel
 - Make sure you have a webcam and run : `(venv) $ python app.py`
 
 You will see the faces in front of your webcam being detected and surrounded by a green rectangle (and by default, along with eyes and smiles)
+
+
+### Demonstration
+![See the GIF `demo-screen-cast.gif`](./demo-screen-cast.gif)
