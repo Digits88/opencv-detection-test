@@ -1,2 +1,4 @@
+coloredlogs==10.0
+humanfriendly==4.17
 numpy==1.15.4
 opencv-python==3.4.3.18
